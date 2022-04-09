@@ -11,7 +11,7 @@
 想进行的旅游线路图，以中国地图标出；
 [中国地图](https://qiankunzhengen.github.io/旅游线路图.html)
 
-    2021年世界GDP预测图，以世界地图标出
+2021年世界GDP预测图，以世界地图标出
 [世界地图](https://qiankunzhengen.github.io/2021年世界各国GDP预测图.html)
 
 3.组合图表
