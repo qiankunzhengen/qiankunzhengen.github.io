@@ -41,4 +41,4 @@
 3.关系图
 
 对《水浒传》进行人物词频分析，分析人物“共现”，生成关系图
-[网页三](https://qiankunzhengen.github.io/关系图-水浒传.html)
+[网页三](https://qiankunzhengen.github.io/)
